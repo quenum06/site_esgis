@@ -1,1 +1,2 @@
-bonsoir big boss 
+readme :
+ceci est un fichier readme
